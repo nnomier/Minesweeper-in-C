@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514033948 source:c:\users\lenovo\desktop\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514034899 source:c:\users\lenovo\desktop\project_4638_v1\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514064747 source:c:\users\lenovo\desktop\project_4638_v2\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514309054 source:c:\users\lenovo\desktop\project_4638_v3\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+
